@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daryl
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Software Development
 - 🌱 I’m majoring in Bachelor of Science in Computer Science
 - 📫 My instagram is @d.ary.l_
 - ⚡ Fun fact: BE PATIENT
