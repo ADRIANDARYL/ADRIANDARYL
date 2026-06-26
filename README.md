@@ -25,6 +25,13 @@
 ### Tools
 [![My Skills](https://skillicons.dev/icons?i=git,github,linux,vscode,docker,figma,powershell&perline=3)](https://skillicons.dev)
 
+## 📊 GitHub Stats
+
+![Stats](https://github-readme-stats.vercel.app/api?username=ADRIANDARYL&show_icons=true&theme=tokyonight)
+
+![Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ADRIANDARYL&layout=compact&theme=tokyonight)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=ADRIANDARYL&theme=tokyonight)
 
 <!---
 ADRIANDARYL/ADRIANDARYL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
