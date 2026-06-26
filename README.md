@@ -1,8 +1,12 @@
-- 👋 Hi, I’m Daryl
-- 👀 I’m interested in Software Development
-- 🌱 I’m majoring in Bachelor of Science in Computer Science
-- 📫 My instagram is @d.ary.l_
-- ⚡ Fun fact: BE PATIENT
+# Hi, I’m Daryl Chacha 👋 
+
+## 👨‍💻 About Me
+
+- 🎓 Computer Scientist
+- 💻 Backend Developer (Python & Flask)
+- 🌱 I'm currently learning Distributed Systems and Cloud Computing
+- 🔍 I'm interested in Software Engineering and Data
+- ⚡ I love solving programming and algorithm challenges
 
 <!---
 ADRIANDARYL/ADRIANDARYL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
